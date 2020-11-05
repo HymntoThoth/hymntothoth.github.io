@@ -27,8 +27,8 @@ strong {
 
 body {
 	font-size: 15px;
-	/* background: #000c07; */
-	background: rgb(16, 20, 23) !important;
+	/* THIS IS THE BACKGROUND COLOR FOR THE SITE: #000000; */
+	background: rgb(0, 0, 0) !important;
 }
 
 pre {
@@ -55,7 +55,7 @@ h6 {
 	color: var(--theme-color);
 	position: relative;
 }
-/* 
+/*
 h1:before,
 h2:before {
 	content: "#";
@@ -108,10 +108,10 @@ hr {
 }
 
 pre {
-	background: #00110d !important;
+	background: #000000 !important;
 	padding: 12px 13px;
 	overflow-x: auto !important;
-	border: 2px solid rgb(0, 39, 0);
+	border: 2px solid rgb(0, 0, 0);
 }
 
 code {
@@ -120,7 +120,7 @@ code {
 	color: #437b91;
 	border-radius: 2px;
 	white-space: pre;
-	background-color: #00110d;
+	background-color: #000000;
 }
 
 
