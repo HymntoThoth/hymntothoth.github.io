@@ -1,7 +1,7 @@
 title: Still Learning
 markdown: kramdown
 url: "hymntothoth.github.io"
-baseurl: "/Wade-test-site"
+baseurl: "/jekyll-theme-dark-reader"
 
 # for atom feed
 author:
