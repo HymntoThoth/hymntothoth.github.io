@@ -1,7 +1,7 @@
 title: Still Learning
 markdown: kramdown
-url: ""
-baseurl: "hymntothoth.github.io"
+url: "hymntothoth.github.io"
+baseurl: ""
 
 # for atom feed
 author:
