@@ -5,6 +5,14 @@
     <div id="indicator"></div>
     <div id="page">
       <style>
+      .title {
+        padding: 10%;
+        color: #FF4040;
+        font-size: 18px;
+        font-weight: bold;
+        text-align: center;
+        display: grid;
+      }
         .meta {
           font-size: 0.7rem;
           font-weight: normal;
@@ -17,6 +25,8 @@
       {% include nav.html %}
       <!-- page content -->
       <main class="content">
+
+        <!--All images are case sensitive to the file ON GITHUB WEBSITE. Why? Go #$%& yourself, that's why.-->
         <img src="\assets\Pictures\The_Eye_Rays.png" alt="">
         <p class="title">
           {{page.title}} <span class="meta">Written By {{page.author}}</span>
