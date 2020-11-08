@@ -1,0 +1,27 @@
+.boxA
+{
+  width: 25%;
+  text-align: justify;
+  margin: 10px auto;
+  background-color: #EED;
+  border: 6px dotted #F4A460;
+  padding: 1.5em;
+}
+
+.boxB
+{
+  width: 25em;
+  border-top: 10px double #2F4F4F;
+  border-bottom: 10px double #2F4F4F;
+  background-color: #DEE;
+  padding: 1.5em 30px;
+  margin: 2em 2em 20px;
+}
+
+.boxC
+{
+  margin: 3em 125px 1.5em 464px;
+  border: 1em ridge #ff9999;
+  padding: 30px;
+  background-color: #deb887;
+}
