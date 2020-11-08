@@ -1,14 +1,9 @@
 ---
-title: Sharad Raj
+title: Wade Overly
 layout: about
-profile_pic: "assets\Pictures\the_eye_rays.png"
+profile_pic: ""
 profile_pic_alt: ""
-short_bio: Hi there this is Sharad, the developer of this theme.
+short_bio: Greetings, I am Wade.
 ---
 
-This is long bio.
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-[My Instagram](http://instagram.com/codingindian) 
-[My Linkedin](http://linkedin.com/in/srsmaurya)
-[My Github](http://github.com/sharadcodes)
+I majored in English Literature at UNC Asheville with a concentration in creative writing. Occasionally I make use of it. Currently, I am enrolled in the Library and Information Science program at UNCG, looking for work within my field and making ends meet in the gig-economy. I read and listen when I have time, and I try to pay attention to the world.  
