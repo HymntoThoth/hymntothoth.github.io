@@ -3,9 +3,10 @@ layout: post
 title: Box Model
 date: 2020-11-08
 tag: School Work
-author: Wade Overly
+author: Wade (while bored and doing a coding exercise)
 categories: ["Assignment"]
 ---
+
 <link rel="stylesheet" href="\assets\css\overly_bm.css"/>
 
 <div class="boxA">
