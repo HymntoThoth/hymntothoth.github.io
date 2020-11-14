@@ -1,7 +1,7 @@
 ---
 title: Wade Overly
 layout: about
-profile_pic: "myhorriblerealface.jpg"
+profile_pic: "myhorriblerealface.JPG"
 profile_pic_alt: ""
 short_bio: Greetings, I am Wade.
 ---
